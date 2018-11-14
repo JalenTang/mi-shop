@@ -1,0 +1,64 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "src": "./static/server/images/param-images/image1.png",
+      "desc": "大屏",
+      "value": "5.84英寸"
+    },
+    {
+      "id": 2,
+      "src": "./static/server/images/param-images/image2.png",
+      "desc": "双摄像头",
+      "value": "1200万+500万像素"
+    },
+    {
+      "id": 3,
+      "src": "./static/server/images/param-images/image3.png",
+      "desc": "超长待机",
+      "value": "4000mAh"
+    },
+    {
+      "id": 4,
+      "src": "./static/server/images/param-images/image4.png",
+      "desc": "高速",
+      "value": "4GB"
+    },
+    {
+      "id": 5,
+      "src": "./static/server/images/param-images/image5.png",
+      "desc": "运营商网络",
+      "value": "4G全网通"
+    },
+    {
+      "id": 6,
+      "src": "./static/server/images/param-images/image6.png",
+      "desc": "屏幕清晰度",
+      "value": "2280×1080"
+    },
+    {
+      "id": 7,
+      "src": "./static/server/images/param-images/image7.png",
+      "desc": "CPU核心数",
+      "value": "八核"
+    },
+    {
+      "id": 8,
+      "src": "./static/server/images/param-images/image8.png",
+      "desc": "存储容量",
+      "value": "32GB"
+    },
+    {
+      "id": 9,
+      "src": "./static/server/images/param-images/image9.png",
+      "desc": "厚实",
+      "value": "8.75mm"
+    },
+    {
+      "id": 10,
+      "src": "./static/server/images/param-images/image10.png",
+      "desc": "网络模式",
+      "value": "双卡双待"
+    }
+  ]
+}

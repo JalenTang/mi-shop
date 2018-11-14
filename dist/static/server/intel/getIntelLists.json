@@ -1,0 +1,29 @@
+{
+	"message": [
+		{
+			"id": 1,
+			"name": "智能家电",
+			"src": "./static/server/intel/images/list-image1.jpg"
+		},
+		{
+			"id": 2,
+			"name": "智能家居",
+			"src": "./static/server/intel/images/list-image2.jpg"
+		},
+		{
+			"id": 3,
+			"name": "运动个护",
+			"src": "./static/server/intel/images/list-image3.jpg"
+		},
+		{
+			"id": 4,
+			"name": "手机周边",
+			"src": "./static/server/intel/images/list-image4.jpg"
+		},
+		{
+			"id": 5,
+			"name": "儿童玩具",
+			"src": "./static/server/intel/images/list-image5.jpg"
+		}
+	]
+}

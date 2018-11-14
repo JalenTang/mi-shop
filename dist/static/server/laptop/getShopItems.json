@@ -1,0 +1,61 @@
+{
+  "message": [
+    {
+      "id": 4002,
+      "name": "15.6\"游戏本 8代i7 16G 1060",
+      "brief": "性能怪兽 信仰级游戏体验",
+      "price": 8999,
+      "src": "./static/server/laptop/images/hot-prod2.jpg"
+    },
+    {
+      "id": 4001,
+      "name": "13.3\" 四核i5 集显",
+      "brief": "轻薄全金属机身，256GB SSD",
+      "price": 4999,
+      "src": "./static/server/laptop/images/hot-prod1.jpg"
+    },
+    {
+      "id": 4001,
+      "name": "13.3\" 四核i5 集显",
+      "brief": "轻薄全金属机身，256GB SSD",
+      "price": 4999,
+      "src": "./static/server/laptop/images/hot-prod1.jpg"
+    },
+    {
+      "id": 4002,
+      "name": "15.6\"游戏本 8代i7 16G 1060",
+      "brief": "性能怪兽 信仰级游戏体验",
+      "price": 8999,
+      "src": "./static/server/laptop/images/hot-prod2.jpg"
+    },
+    {
+      "id": 4002,
+      "name": "15.6\"游戏本 8代i7 16G 1060",
+      "brief": "性能怪兽 信仰级游戏体验",
+      "price": 8999,
+      "src": "./static/server/laptop/images/hot-prod2.jpg"
+    },
+    {
+      "id": 4001,
+      "name": "13.3\" 四核i5 集显",
+      "brief": "轻薄全金属机身，256GB SSD",
+      "price": 4999,
+      "src": "./static/server/laptop/images/hot-prod1.jpg"
+    },
+    {
+      "id": 4001,
+      "name": "13.3\" 四核i5 集显",
+      "brief": "轻薄全金属机身，256GB SSD",
+      "price": 4999,
+      "src": "./static/server/laptop/images/hot-prod1.jpg"
+    },
+    {
+      "id": 4002,
+      "name": "15.6\"游戏本 8代i7 16G 1060",
+      "brief": "性能怪兽 信仰级游戏体验",
+      "price": 8999,
+      "src": "./static/server/laptop/images/hot-prod2.jpg"
+    }
+
+  ]
+}

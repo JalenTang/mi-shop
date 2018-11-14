@@ -1,0 +1,80 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "src": "./static/server/4002/images/prod/image1.jpg"
+    },
+    {
+      "id": 2,
+      "src": "./static/server/4002/images/prod/image2.jpg"
+    },
+    {
+      "id": 3,
+      "src": "./static/server/4002/images/prod/image3.jpg"
+    },
+    {
+      "id": 4,
+      "src": "./static/server/4002/images/prod/image4.jpg"
+    },
+    {
+      "id": 5,
+      "src": "./static/server/4002/images/prod/image5.jpg"
+    },
+    {
+      "id": 6,
+      "src": "./static/server/4002/images/prod/image6.jpg"
+    },
+    {
+      "id": 7,
+      "src": "./static/server/4002/images/prod/image7.jpg"
+    },
+    {
+      "id": 8,
+      "src": "./static/server/4002/images/prod/image8.jpg"
+    },
+    {
+      "id": 9,
+      "src": "./static/server/4002/images/prod/image9.jpg"
+    },
+    {
+      "id": 10,
+      "src": "./static/server/4002/images/prod/image10.jpg"
+    },
+    {
+      "id": 11,
+      "src": "./static/server/4002/images/prod/image11.jpg"
+    },
+    {
+      "id": 12,
+      "src": "./static/server/4002/images/prod/image12.jpg"
+    },
+    {
+      "id": 13,
+      "src": "./static/server/4002/images/prod/image13.jpg"
+    },
+    {
+      "id": 14,
+      "src": "./static/server/4002/images/prod/image14.jpg"
+    },
+    {
+      "id": 15,
+      "src": "./static/server/4002/images/prod/image15.jpg"
+    },
+    {
+      "id": 16,
+      "src": "./static/server/4002/images/prod/image16.jpg"
+    },
+    {
+      "id": 17,
+      "src": "./static/server/4002/images/prod/image17.jpg"
+    },
+    {
+      "id": 18,
+      "src": "./static/server/4002/images/prod/image18.jpg"
+    },
+    {
+      "id": 19,
+      "src": "./static/server/4002/images/prod/image19.jpg"
+    }
+  ]
+}

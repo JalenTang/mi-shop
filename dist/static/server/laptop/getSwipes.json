@@ -1,0 +1,14 @@
+{
+  "message": [
+    {
+      "id": 4001,
+      "name": "13.3\"笔记本 四核i5 8G 256G 集显 ",
+      "src": "./static/server/laptop/images/swipe1.jpg"
+    },
+    {
+      "id": 4002,
+      "name":"15.6\"游戏本 8代i7 16G 1060",
+      "src": "./static/server/laptop/images/swipe2.jpg"
+    }
+  ]
+}

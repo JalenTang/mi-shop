@@ -1,0 +1,14 @@
+{
+  "message": [
+    {
+      "id": 5001,
+      "name": "米家互联网空调",
+      "src": "./static/server/household/images/swipe1.jpg"
+    },
+    {
+      "id": 5002,
+      "name":"小米净水器",
+      "src": "./static/server/household/images/swipe2.jpg"
+    }
+  ]
+}

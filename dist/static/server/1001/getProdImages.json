@@ -1,0 +1,44 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "src": "./static/server/1001/images/prod/image1.jpg"
+    },
+    {
+      "id": 2,
+      "src": "./static/server/1001/images/prod/image2.jpg"
+    },
+    {
+      "id": 3,
+      "src": "./static/server/1001/images/prod/image3.jpg"
+    },
+    {
+      "id": 4,
+      "src": "./static/server/1001/images/prod/image4.jpg"
+    },
+    {
+      "id": 5,
+      "src": "./static/server/1001/images/prod/image5.jpg"
+    },
+    {
+      "id": 6,
+      "src": "./static/server/1001/images/prod/image6.jpg"
+    },
+    {
+      "id": 7,
+      "src": "./static/server/1001/images/prod/image7.jpg"
+    },
+    {
+      "id": 8,
+      "src": "./static/server/1001/images/prod/image8.jpg"
+    },
+    {
+      "id": 9,
+      "src": "./static/server/1001/images/prod/image9.jpg"
+    },
+    {
+      "id": 10,
+      "src": "./static/server/1001/images/prod/image10.jpg"
+    }
+  ]
+}

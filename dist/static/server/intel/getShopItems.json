@@ -1,0 +1,62 @@
+{
+  "message": [
+    {
+      "id": 3001,
+      "name": "小米手环3 NFC版",
+      "brief": "能刷公交卡的手环",
+      "price": 199,
+      "src": "./static/server/intel/images/hot-prod1.jpg"
+    },
+    {
+      "id": 3003,
+      "name": "小米VR一体机",
+      "brief": "内含21款总价700元精选VR游戏",
+      "price": 1699,
+      "src": "./static/server/intel/images/hot-prod3.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": 1699,
+      "src": "./static/server/intel/images/hot-prod2.jpg"
+    },
+    {
+      "id": 3001,
+      "name": "小米手环3 NFC版",
+      "brief": "能刷公交卡的手环",
+      "price": 199,
+      "src": "./static/server/intel/images/hot-prod1.jpg"
+
+    },
+    {
+      "id": 3003,
+      "name": "小米VR一体机",
+      "brief": "内含21款总价700元精选VR游戏",
+      "price": 1699,
+      "src": "./static/server/intel/images/hot-prod3.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": 1699,
+      "src": "./static/server/intel/images/hot-prod2.jpg"
+    },
+    {
+      "id": 3001,
+      "name": "小米手环3 NFC版",
+      "brief": "能刷公交卡的手环",
+      "price": 199,
+      "src": "./static/server/intel/images/hot-prod1.jpg"
+
+    },
+    {
+      "id": 3003,
+      "name": "小米VR一体机",
+      "brief": "内含21款总价700元精选VR游戏",
+      "price": 1699,
+      "src": "./static/server/intel/images/hot-prod3.jpg"
+    }
+  ]
+}

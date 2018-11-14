@@ -1,0 +1,29 @@
+{
+	"message": [
+		{
+			"id": 1,
+			"name": "家居生活",
+			"src": "./static/server/life/images/list-image1.jpg"
+		},
+		{
+			"id": 2,
+			"name": "箱包出行",
+			"src": "./static/server/life/images/list-image2.jpg"
+		},
+		{
+			"id": 3,
+			"name": "服饰鞋类",
+			"src": "./static/server/life/images/list-image3.jpg"
+		},
+		{
+			"id": 4,
+			"name": "精品眼镜",
+			"src": "./static/server/life/images/list-image4.jpg"
+		},
+		{
+			"id": 5,
+			"name": "其他配件",
+			"src": "./static/server/life/images/list-image5.jpg"
+		}
+	]
+}

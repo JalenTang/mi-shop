@@ -1,0 +1,12 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "src": "./static/server/2002/images/banner/image1.jpg"
+    },
+    {
+      "id": 2,
+      "src": "./static/server/2002/images/banner/image2.jpg"
+    }
+  ]
+}

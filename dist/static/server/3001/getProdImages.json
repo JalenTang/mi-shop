@@ -1,0 +1,20 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "src": "./static/server/3001/images/prod/image1.jpg"
+    },
+    {
+      "id": 2,
+      "src": "./static/server/3001/images/prod/image2.jpg"
+    },
+    {
+      "id": 3,
+      "src": "./static/server/3001/images/prod/image3.jpg"
+    },
+    {
+      "id": 4,
+      "src": "./static/server/3001/images/prod/image4.jpg"
+    }
+  ]
+}

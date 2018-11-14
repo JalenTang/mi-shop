@@ -1,0 +1,64 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "src": "./static/server/images/param-images/image1.png",
+      "desc": "较大屏幕",
+      "value": "15.6英寸"
+    },
+    {
+      "id": 7,
+      "src": "./static/server/images/param-images/image7.png",
+      "desc": "Intel i7",
+      "value": "CPU"
+    },
+    {
+      "id": 12,
+      "src": "./static/server/images/param-images/image12.png",
+      "desc": "独立显卡",
+      "value": "显卡类型"
+    },
+    {
+      "id": 9,
+      "src": "./static/server/images/param-images/image9.png",
+      "desc": "正常厚度",
+      "value": "厚度"
+    },
+    {
+      "id": 13,
+      "src": "./static/server/images/param-images/image13.png",
+      "desc": "256GB",
+      "value": "含固态硬盘"
+    },
+    {
+      "id": 8,
+      "src": "./static/server/images/param-images/image8.png",
+      "desc": "1TB",
+      "value": "含机械硬盘"
+    },
+    {
+      "id": 4,
+      "src": "./static/server/images/param-images/image4.png",
+      "desc": "超大内存",
+      "value": "16GB"
+    },
+    {
+      "id": 6,
+      "src": "./static/server/images/param-images/image6.png",
+      "desc": "全高清屏",
+      "value": "屏幕分辨率"
+    },
+    {
+      "id": 3,
+      "src": "./static/server/images/param-images/image3.png",
+      "desc": "待机时长",
+      "value": ">6.5小时"
+    },
+    {
+      "id": 14,
+      "src": "./static/server/images/param-images/image3.png",
+      "desc": "2.7kg",
+      "value": "重量"
+    }
+  ]
+}
