@@ -1,0 +1,60 @@
+{
+  "message": [
+    {
+      "id": 7002,
+      "name": "小米盒子3 增强版",
+      "brief": "全新升级64位",
+      "price": 399,
+      "src": "./static/server/entertain/images/hot-prod2.jpg"
+    },
+    {
+      "id": 7001,
+      "name": "小米盒子4c",
+      "brief": "4K HDR人工智能",
+      "price": 199,
+      "src": "./static/server/entertain/images/hot-prod1.jpg"
+    },
+    {
+      "id": 7001,
+      "name": "小米盒子4c",
+      "brief": "4K HDR人工智能",
+      "price": 199,
+      "src": "./static/server/entertain/images/hot-prod1.jpg"
+    },
+    {
+      "id": 7002,
+      "name": "小米盒子3 增强版",
+      "brief": "全新升级64位",
+      "price": 399,
+      "src": "./static/server/entertain/images/hot-prod2.jpg"
+    },
+    {
+      "id": 7001,
+      "name": "小米盒子4c",
+      "brief": "4K HDR人工智能",
+      "price": 199,
+      "src": "./static/server/entertain/images/hot-prod1.jpg"
+    },
+    {
+      "id": 7002,
+      "name": "小米盒子3 增强版",
+      "brief": "全新升级64位",
+      "price": 399,
+      "src": "./static/server/entertain/images/hot-prod2.jpg"
+    },
+    {
+      "id": 7002,
+      "name": "小米盒子3 增强版",
+      "brief": "全新升级64位",
+      "price": 399,
+      "src": "./static/server/entertain/images/hot-prod2.jpg"
+    },
+    {
+      "id": 7001,
+      "name": "小米盒子4c",
+      "brief": "4K HDR人工智能",
+      "price": 199,
+      "src": "./static/server/entertain/images/hot-prod1.jpg"
+    }
+  ]
+}

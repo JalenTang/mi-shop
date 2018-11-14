@@ -1,0 +1,122 @@
+.category {
+  padding-top: 50px;
+  padding-bottom: 55px;
+  margin-right: auto;
+  margin-left: auto;
+  flex-basis: 100%;
+  background: #fff;
+  color: #3c3c3c;
+}
+.category .list-navbar {
+  position: fixed;
+  top: 50px;
+  bottom: 52px;
+  left: 0;
+  width: 2.111rem;
+  border-right: 1px solid #efefef;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.category .list-navbar ul {
+  z-index: 90;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: -0.417rem;
+  padding: 0.278rem 0.417rem 0.278rem 0;
+  background: #fefefe;
+  overflow-y: auto;
+}
+.category .list-navbar ul li {
+  font-size: 0.472rem;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  overflow: hidden;
+  text-align: center;
+  transform: scale(0.76);
+}
+.category .list-navbar ul .active {
+  color: #fb7d34;
+  transform: scale(1);
+}
+.category .list-content {
+  padding-left: 2.556rem;
+  padding-right: 0.444rem;
+}
+.category .list-content .list-item .item-image a {
+  height: 2.778rem;
+  width: 6.944rem;
+  display: block;
+}
+.category .list-content .list-item .item-image a img {
+  height: 2.778rem;
+  width: 6.944rem;
+}
+.category .list-content .list-item .item-name {
+  background: #fff;
+  font-size: 0.389rem;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 0.278rem;
+  height: 1.778rem;
+  line-height: 1.778rem;
+  overflow: hidden;
+}
+.category .list-content .list-item .item-name span {
+  position: relative;
+}
+.category .list-content .list-item .item-name span::before,
+.category .list-content .list-item .item-name span::after {
+  content: "";
+  position: absolute;
+  width: 0.556rem;
+  top: 50%;
+  border-top: 1px solid #e0e0e0;
+}
+.category .list-content .list-item .item-name span::before {
+  left: -30px;
+}
+.category .list-content .list-item .item-name span::after {
+  left: 34px;
+}
+.category .list-content .list-item .item-content {
+  background: #fff;
+  margin: -0.083rem 0 0;
+}
+.category .list-content .list-item .item-content ul {
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: center;
+}
+.category .list-content .list-item .item-content ul li {
+  width: 33.333333333333333%;
+  text-align: center;
+  margin-top: 0.278rem;
+  margin-bottom: 0.417rem;
+  overflow: hidden;
+}
+.category .list-content .list-item .item-content ul li a {
+  text-decoration: none;
+}
+.category .list-content .list-item .item-content ul li a img {
+  display: block;
+  width: 1.389rem;
+  height: 1.389rem;
+  margin: 0 auto;
+  background: #fff;
+  overflow: hidden;
+}
+.category .list-content .list-item .item-content ul li a span {
+  display: block;
+  margin-top: 0.389rem;
+  white-space: nowrap;
+  font-size: 0.319rem;
+  color: rgba(0, 0, 0, 0.54);
+}
+.category .list-content .list-item:last-child {
+  margin-bottom: 4.32194444rem;
+}

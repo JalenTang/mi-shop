@@ -1,0 +1,14 @@
+{
+  "message": [
+    {
+      "id": 1008,
+      "name": "小米Mix3",
+      "src": "./static/server/phone/images/swipe1.jpg"
+    },
+    {
+      "id": 1002,
+      "name":"小米Max3",
+      "src": "./static/server/phone/images/swipe2.jpg"
+    }
+  ]
+}

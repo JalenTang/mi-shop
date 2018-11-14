@@ -1,0 +1,14 @@
+{
+  "message": [
+    {
+      "id": 2003,
+      "name": "小米电视4C 43英寸",
+      "src": "./static/server/television/images/swipe1.jpg"
+    },
+    {
+      "id": 2001,
+      "name":"小米电视4A 55英寸",
+      "src": "./static/server/television/images/swipe2.jpg"
+    }
+  ]
+}

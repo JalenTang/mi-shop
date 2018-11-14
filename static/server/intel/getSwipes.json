@@ -1,0 +1,19 @@
+{
+  "message": [
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "src": "./static/server/intel/images/swipe1.jpg"
+    },
+    {
+      "id": 3001,
+      "name":"小米手环3 NFC版",
+      "src": "./static/server/intel/images/swipe2.jpg"
+    },
+    {
+      "id": 3003,
+      "name":"小米VR一体机",
+      "src": "./static/server/intel/images/swipe3.jpg"
+    }
+  ]
+}

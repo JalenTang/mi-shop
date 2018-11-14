@@ -1,0 +1,90 @@
+{
+  "message": [
+    {
+      "id": 1003,
+      "name": "小米8 青春版",
+      "brief": "潮流镜面渐变色，自拍旗舰",
+      "price": 1399,
+      "src": "static/server/recommend/images/shopItem1.png"
+
+    },
+    {
+      "id": 1006,
+      "name": "小米8 屏幕指纹版",
+      "brief": "压感屏幕指纹，潮流外观",
+      "price": 3199,
+      "src": "static/server/recommend/images/shopItem2.png"
+    },
+    {
+      "id": 2003,
+      "name": "小米电视4C 43英寸",
+      "brief": "超窄边，人工智能系统PatchWall",
+      "price": 1499,
+      "src": "./static/server/television/images/hot-prod3.jpg"
+    },
+    {
+      "id": 2001,
+      "name": "小米电视4A 55英寸",
+      "brief": "4K HDR，64位处理器",
+      "price": 2499,
+      "src": "./static/server/television/images/hot-prod1.jpg"
+
+    },
+    {
+      "id": 3001,
+      "name": "小米手环3 NFC版",
+      "brief": "能刷公交卡的手环",
+      "price": 199,
+      "src": "./static/server/intel/images/hot-prod1.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": 1699,
+      "src": "./static/server/intel/images/hot-prod2.jpg"
+    },
+    {
+      "id": 5001,
+      "name": "米家互联网空调",
+      "brief": "1.5匹变频|高效制冷热",
+      "price": 1999,
+      "src": "./static/server/household/images/hot-prod1.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "小米净水器（厨下式)",
+      "brief": "含上门安装服务费 / 400加仑大流量 / RO反渗透直出纯净水 / 隐藏安装 / 健康家庭必备",
+      "price": 1999,
+      "src": "./static/server/household/images/hot-prod2.jpg"
+    },
+    {
+      "id": 6001,
+      "name": "90分旅行箱 1A 20英寸",
+      "brief": "可随身携带",
+      "price": 299,
+      "src": "./static/server/life/images/hot-prod1.jpg"
+    },
+    {
+      "id": 6003,
+      "name": "米家运动鞋2",
+      "brief": "轻盈灵巧 动静皆宜",
+      "price": 1999,
+      "src": "./static/server/life/images/hot-prod3.jpg"
+    },
+    {
+      "id": 7001,
+      "name": "小米盒子4c",
+      "brief": "4K HDR人工智能",
+      "price": 199,
+      "src": "./static/server/entertain/images/hot-prod1.jpg"
+    },
+    {
+      "id": 7002,
+      "name": "小米盒子3 增强版",
+      "brief": "全新升级64位",
+      "price": 399,
+      "src": "./static/server/entertain/images/hot-prod2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "message": [
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": 1699,
+      "src": "./static/server/household/images/hot-prod3.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "小米净水器（厨下式)",
+      "brief": "含上门安装服务费 / 400加仑大流量 / RO反渗透直出纯净水 / 隐藏安装 / 健康家庭必备",
+      "price": 1999,
+      "src": "./static/server/household/images/hot-prod2.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "小米净水器（厨下式)",
+      "brief": "含上门安装服务费 / 400加仑大流量 / RO反渗透直出纯净水 / 隐藏安装 / 健康家庭必备",
+      "price": 1999,
+      "src": "./static/server/household/images/hot-prod2.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": 1699,
+      "src": "./static/server/household/images/hot-prod3.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": 1699,
+      "src": "./static/server/household/images/hot-prod3.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "小米净水器（厨下式)",
+      "brief": "含上门安装服务费 / 400加仑大流量 / RO反渗透直出纯净水 / 隐藏安装 / 健康家庭必备",
+      "price": 1999,
+      "src": "./static/server/household/images/hot-prod2.jpg"
+    },
+    {
+      "id": 5002,
+      "name": "小米净水器（厨下式)",
+      "brief": "含上门安装服务费 / 400加仑大流量 / RO反渗透直出纯净水 / 隐藏安装 / 健康家庭必备",
+      "price": 1999,
+      "src": "./static/server/household/images/hot-prod2.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": 1699,
+      "src": "./static/server/household/images/hot-prod3.jpg"
+    }
+  ]
+}

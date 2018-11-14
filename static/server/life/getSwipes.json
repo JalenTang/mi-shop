@@ -1,0 +1,19 @@
+{
+  "message": [
+    {
+      "id": 6001,
+      "name": "90分旅行箱 1A",
+      "src": "./static/server/life/images/swipe1.jpg"
+    },
+    {
+      "id": 6002,
+      "name":"TS近视镜",
+      "src": "./static/server/life/images/swipe2.jpg"
+    },
+    {
+      "id": 6003,
+      "name":"米家运动鞋2",
+      "src": "./static/server/life/images/swipe3.jpg"
+    }
+  ]
+}

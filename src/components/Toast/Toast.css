@@ -1,0 +1,71 @@
+.toast {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 100;
+  opacity: 1;
+}
+.toast .toast-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+}
+.toast .toast-wrapper .toast-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.toast .toast-wrapper .toast-box .content {
+  width: 4.444rem;
+  height: 3.333rem;
+  background: rgba(0, 0, 0, 0.7);
+  border-radius: 0.278rem;
+  overflow: hidden;
+}
+.toast .toast-wrapper .toast-box .content .toast-icon {
+  width: 1.181rem;
+  height: 1.181rem;
+  margin: 0.625rem auto 0.417rem;
+  background: 50% 50% no-repeat transparent;
+  background-size: cover;
+}
+.toast .toast-wrapper .toast-box .content .toast-text {
+  height: 0.556rem;
+  line-height: 0.556rem;
+  padding: 0 0.347rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 0.361rem;
+  color: #fff;
+}
+.toast .toast-wrapper .toast-box .content .icon-warning {
+  background-image: url("../../assets/images/icon-warning.png");
+}
+.toast .toast-wrapper .toast-box .content .icon-success {
+  background-image: url("../../assets/images/icon-success.png");
+}
+.toast .toast-box.top {
+  top: 20%;
+}
+.toast .toast-box.middle {
+  top: 50%;
+}
+.toast .toast-box.bottom {
+  top: 80%;
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity .2s;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}

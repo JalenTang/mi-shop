@@ -1,0 +1,60 @@
+{
+  "message": [
+    {
+      "id": 6003,
+      "name": "米家运动鞋2",
+      "brief": "轻盈灵巧 动静皆宜",
+      "price": 1999,
+      "src": "./static/server/life/images/hot-prod3.jpg"
+    },
+    {
+      "id": 6002,
+      "name": "TS近视镜 米家定制",
+      "brief": "PEI镜架 ／ 非球面镜片 ／ 自适应设计 ／ 轻盈舒适",
+      "price": 299,
+      "src": "./static/server/life/images/hot-prod2.jpg"
+    },
+    {
+      "id": 6001,
+      "name": "90分旅行箱 1A 20英寸",
+      "brief": "可随身携带",
+      "price": 299,
+      "src": "./static/server/life/images/hot-prod1.jpg"
+    },
+    {
+      "id": 6003,
+      "name": "米家运动鞋2",
+      "brief": "轻盈灵巧 动静皆宜",
+      "price": 1999,
+      "src": "./static/server/life/images/hot-prod3.jpg"
+    },
+    {
+      "id": 6002,
+      "name": "TS近视镜  米家定制 ",
+      "brief": "PEI镜架 ／ 非球面镜片 ／ 自适应设计 ／ 轻盈舒适",
+      "price": 299,
+      "src": "./static/server/life/images/hot-prod2.jpg"
+    },
+    {
+      "id": 6001,
+      "name": "90分旅行箱 1A 20英寸",
+      "brief": "可随身携带",
+      "price": 299,
+      "src": "./static/server/life/images/hot-prod1.jpg"
+    },
+    {
+      "id": 6003,
+      "name": "米家运动鞋2",
+      "brief": "轻盈灵巧 动静皆宜",
+      "price": 1999,
+      "src": "./static/server/life/images/hot-prod3.jpg"
+    },
+    {
+      "id": 6002,
+      "name": "TS近视镜  米家定制 ",
+      "brief": "PEI镜架 ／ 非球面镜片 ／ 自适应设计 ／ 轻盈舒适",
+      "price": 299,
+      "src": "./static/server/life/images/hot-prod2.jpg"
+    }
+  ]
+}

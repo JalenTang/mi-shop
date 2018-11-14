@@ -1,0 +1,64 @@
+{
+  "message": [
+    {
+      "id": 1,
+      "src": "./static/server/images/param-images/image1.png",
+      "desc": "中屏",
+      "value": "5.45英寸"
+    },
+    {
+      "id": 2,
+      "src": "./static/server/images/param-images/image2.png",
+      "desc": "高清拍摄",
+      "value": "1300万像素"
+    },
+    {
+      "id": 3,
+      "src": "./static/server/images/param-images/image3.png",
+      "desc": "持久待机",
+      "value": "3000mAh"
+    },
+    {
+      "id": 4,
+      "src": "./static/server/images/param-images/image4.png",
+      "desc": "实用",
+      "value": "2GB"
+    },
+    {
+      "id": 5,
+      "src": "./static/server/images/param-images/image5.png",
+      "desc": "运营商网络",
+      "value": "4G全网通"
+    },
+    {
+      "id": 6,
+      "src": "./static/server/images/param-images/image6.png",
+      "desc": "屏幕清晰度",
+      "value": "1440x720"
+    },
+    {
+      "id": 7,
+      "src": "./static/server/images/param-images/image7.png",
+      "desc": "CPU核心数",
+      "value": "四核"
+    },
+    {
+      "id": 8,
+      "src": "./static/server/images/param-images/image8.png",
+      "desc": "存储容量",
+      "value": "16GB"
+    },
+    {
+      "id": 9,
+      "src": "./static/server/images/param-images/image9.png",
+      "desc": "普通厚度",
+      "value": "8.3mm"
+    },
+    {
+      "id": 10,
+      "src": "./static/server/images/param-images/image10.png",
+      "desc": "网络模式",
+      "value": "双卡双待"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "message": [
+    {
+      "id": 1001,
+      "name": "小米8",
+      "brief": "全球首款双频GPS，骁龙845",
+      "price": 2499,
+      "src": "static/server/phone/images/hot-prod1.jpg"
+    },
+    {
+      "id": 1002,
+      "name": "小米Max3",
+      "brief": "6.9\"大屏，5500mAh大电量",
+      "price": 1599,
+      "src": "static/server/phone/images/hot-prod2.jpg"
+    },
+    {
+      "id": 1003,
+      "name": "小米8 青春版",
+      "brief": "潮流镜面渐变色，自拍旗舰",
+      "price": 1399,
+      "src": "static/server/phone/images/hot-prod3.jpg"
+    },
+    {
+      "id": 1004,
+      "name": "红米6A",
+      "brief": "好用好看不贵",
+      "price": 569,
+      "src": "static/server/phone/images/hot-prod4.jpg"
+    },
+    {
+      "id": 1005,
+      "name": "红米6 Pro",
+      "brief": "高颜值大电量",
+      "price": 999,
+      "src": "static/server/phone/images/hot-prod5.jpg"
+    },
+    {
+      "id": 1006,
+      "name": "小米8 屏幕指纹版",
+      "brief": "压感屏幕指纹，潮流外观",
+      "price": 3199,
+      "src": "static/server/phone/images/hot-prod6.jpg"
+    },
+    {
+      "id": 1007,
+      "name": "黑鲨游戏手机 Helo",
+      "brief": "双液冷，更能打",
+      "price": 3499,
+      "src": "static/server/phone/images/hot-prod7.jpg"
+    },
+    {
+      "id": 1008,
+      "name": "小米Mix3",
+      "brief": "磁动力滑盖全面屏",
+      "price": 3999,
+      "src": "static/server/phone/images/hot-prod8.jpg"
+    }
+  ]
+}

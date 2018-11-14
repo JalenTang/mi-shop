@@ -1,0 +1,13 @@
+.go-top {
+  position: fixed;
+  z-index: 999;
+  bottom: 1.944rem;
+  right: 0.361rem;
+}
+.go-top img {
+  display: block;
+  width: 0.972rem;
+  height: 0.972rem;
+  overflow: hidden;
+  margin-top: 0.139rem;
+}

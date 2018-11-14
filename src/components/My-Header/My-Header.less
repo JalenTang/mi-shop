@@ -1,0 +1,61 @@
+@rem: 50/36rem;
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  background: #f2f2f2;
+  color: #666;
+  padding: 0;
+  .header-left, .header-right {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    .header-item {
+      display: block;
+      width: round(@rem*0.6, 3);
+      margin: 0 round(@rem*0.2, 3);
+    }
+  }
+  .header-left {
+    .icon-back {
+      display: block;
+      background: url("../../assets/images/back2.png") no-repeat;
+      background-size: cover;
+      width: round(@rem*0.5, 3);
+      height: round(@rem*0.5, 3);
+      line-height: round(@rem*0.6, 3);
+    }
+  }
+  .header-middle {
+    flex: 1;
+    font-size: round(@rem*0.3, 3);
+    .header-title {
+      width: 100%;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+  }
+  .header-right {
+    .icon {
+      display: block;
+      width: round(@rem*0.6, 3);
+      height: round(@rem*0.6, 3);
+      line-height: round(@rem*0.6, 3);
+    }
+    .icon-search {
+      background: url("../../assets/images/search.png") no-repeat;
+      background-size: cover;
+    }
+    .icon-none {
+      background: transparent;
+    }
+  }
+}

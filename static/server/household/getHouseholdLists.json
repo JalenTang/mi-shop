@@ -1,0 +1,29 @@
+{
+	"message": [
+		{
+			"id": 1,
+			"name": "扫地机",
+			"src": "./static/server/household/images/list-image1.jpg"
+		},
+		{
+			"id": 2,
+			"name": "净水器",
+			"src": "./static/server/household/images/list-image2.jpg"
+		},
+		{
+			"id": 3,
+			"name": "空气净化器",
+			"src": "./static/server/household/images/list-image3.jpg"
+		},
+		{
+			"id": 4,
+			"name": "厨房电器",
+			"src": "./static/server/household/images/list-image4.jpg"
+		},
+		{
+			"id": 5,
+			"name": "其他配件",
+			"src": "./static/server/household/images/list-image5.jpg"
+		}
+	]
+}

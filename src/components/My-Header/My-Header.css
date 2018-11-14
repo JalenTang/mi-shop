@@ -1,0 +1,57 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  background: #f2f2f2;
+  color: #666;
+  padding: 0;
+}
+.header .header-left,
+.header .header-right {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.header .header-left .header-item,
+.header .header-right .header-item {
+  display: block;
+  width: 0.833rem;
+  margin: 0 0.278rem;
+}
+.header .header-left .icon-back {
+  display: block;
+  background: url("../../assets/images/back2.png") no-repeat;
+  background-size: cover;
+  width: 0.694rem;
+  height: 0.694rem;
+  line-height: 0.833rem;
+}
+.header .header-middle {
+  flex: 1;
+  font-size: 0.417rem;
+}
+.header .header-middle .header-title {
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.header .header-right .icon {
+  display: block;
+  width: 0.833rem;
+  height: 0.833rem;
+  line-height: 0.833rem;
+}
+.header .header-right .icon-search {
+  background: url("../../assets/images/search.png") no-repeat;
+  background-size: cover;
+}
+.header .header-right .icon-none {
+  background: transparent;
+}

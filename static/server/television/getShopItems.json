@@ -1,0 +1,62 @@
+{
+  "message": [
+    {
+      "id": 2001,
+      "name": "小米电视4A 55英寸",
+      "brief": "4K HDR，64位处理器",
+      "price": 2499,
+      "src": "./static/server/television/images/hot-prod1.jpg"
+    },
+    {
+      "id": 2002,
+      "name": "小米电视4X 55英寸",
+      "brief": "4K HDR，人工智能语音，超窄边钢琴烤漆",
+      "price": 2499,
+      "src": "./static/server/television/images/hot-prod2.jpg"
+    },
+    {
+      "id": 2003,
+      "name": "小米电视4C 43英寸",
+      "brief": "超窄边，人工智能系统PatchWall",
+      "price": 1499,
+      "src": "./static/server/television/images/hot-prod3.jpg"
+    },
+    {
+      "id": 2001,
+      "name": "小米电视4A 55英寸",
+      "brief": "4K HDR，64位处理器",
+      "price": 2499,
+      "src": "./static/server/television/images/hot-prod1.jpg"
+
+    },
+    {
+      "id": 2002,
+      "name": "小米电视4X 55英寸",
+      "brief": "4K HDR，人工智能语音，超窄边钢琴烤漆",
+      "price": 2499,
+      "src": "./static/server/television/images/hot-prod2.jpg"
+    },
+    {
+      "id": 2003,
+      "name": "小米电视4C 43英寸",
+      "brief": "超窄边，人工智能系统PatchWall",
+      "price": 1499,
+      "src": "./static/server/television/images/hot-prod3.jpg"
+    },
+    {
+      "id": 2001,
+      "name": "小米电视4A 55英寸",
+      "brief": "4K HDR，64位处理器",
+      "price": 2499,
+      "src": "./static/server/television/images/hot-prod1.jpg"
+
+    },
+    {
+      "id": 2002,
+      "name": "小米电视4X 55英寸",
+      "brief": "4K HDR，人工智能语音，超窄边钢琴烤漆",
+      "price": 2499,
+      "src": "./static/server/television/images/hot-prod2.jpg"
+    }
+  ]
+}

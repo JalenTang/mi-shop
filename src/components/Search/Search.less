@@ -1,0 +1,102 @@
+@rem: 50/36rem;
+
+.search {
+  padding-top: 50px;
+  background: #fff;
+  color: #3c3c3c;
+  .search-header {
+    height: 50px;
+    background: #f2f2f2;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    .header-icon {
+      display: block;
+      margin: 0 0.2*@rem;
+      color: #666;
+      i {
+        display: block;
+        background: transparent no-repeat 50% 50%;
+        background-size: cover;
+      }
+      .icon-back {
+        width: 0.5*@rem;
+        height: 0.5*@rem;
+        background-image: url('../../assets/images/back3.png');
+      }
+      .icon-search {
+        width: 0.6*@rem;
+        height: 0.6*@rem;
+        background-image: url('../../assets/images/search.png');
+      }
+    }
+    .search-item {
+      border: 1px solid #e5e5e5;
+      padding: 0 0.2*@rem;
+      background: #fff;
+      width: 100%;
+      border-radius: 0.04*@rem;
+      input {
+        width: 100%;
+        border: 0 none;
+        outline: 0;
+        font-size: 0.3*@rem;
+        font-weight: 400;
+        height: 0.5*@rem;
+        padding: 0.1*@rem 0;
+        line-height: normal;
+        outline-offset: -2px;
+      }
+      // 清除谷歌浏览器下的search叉号
+      input::-webkit-search-cancel-button{
+        display: none;
+      }
+      // 清除IE下的search叉号
+      input[type=search]::-ms-clear{
+        display: none;
+      }
+    }
+  }
+  .search-content {
+    .search-promotion {
+      .search-promotion-title {
+        line-height: 0.8*@rem;
+        padding: 0 0.3*@rem;
+        font-size: 0.24*@rem;
+        text-align: left;
+      }
+      .search-promotion-img {
+        height: 2*@rem;
+        width: 7.2*@rem;
+        img {
+          display: block;
+          width: 100%;
+          border-style: none;
+        }
+      }
+    }
+    .search-key-list {
+      .result-list {
+        text-align: left;
+        a {
+          border-bottom: 1px solid #f6f6f6;
+          display: block;
+          overflow: hidden;
+          padding: 0.2*@rem 0.3*@rem;
+          background: #f5f5f5;
+          font-size: 0.28*@rem;
+          line-height: 0.36*@rem;
+          white-space: nowrap;
+          color: #333;
+          outline: 0;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+

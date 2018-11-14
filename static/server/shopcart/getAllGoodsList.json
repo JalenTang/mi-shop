@@ -1,0 +1,165 @@
+{
+  "goodsList": [
+    {
+      "id": 1001,
+      "name": "小米8 全网通版 6GB内存 64GB 黑色",
+      "price": 2499,
+      "number": 1,
+      "imageSrc": "./static/server/1001/images/cart-image.jpg"
+    },
+    {
+      "id": 1002,
+      "name": "小米Max 3 全网通版 4GB内存 64GB 黑色",
+      "price": 1599,
+      "number": 1,
+      "imageSrc": "./static/server/1002/images/cart-image.jpg"
+    },
+    {
+      "id": 1003,
+      "name": "小米8 青春 全网通版 4GB内存 深空灰 64GB",
+      "price": 1399,
+      "number": 1,
+      "imageSrc": "./static/server/1003/images/cart-image.jpg"
+    },
+    {
+      "id": 1004,
+      "name": "红米6A 全网通版 2GB内存 16GB 流沙金",
+      "price": 549,
+      "number": 1,
+      "imageSrc": "./static/server/1004/images/cart-image.jpg"
+    },
+    {
+      "id": 1005,
+      "name": "红米6 Pro 全网通版 4GB内存 32GB 流沙金",
+      "price": 999,
+      "number": 1,
+      "imageSrc": "./static/server/1005/images/cart-image.jpg"
+    },
+    {
+      "id": 1006,
+      "name": "小米8 屏幕指纹版 8GB内存 暮光金 128GB",
+      "price": 3599,
+      "number": 1,
+      "imageSrc": "./static/server/1006/images/cart-image.jpg"
+    },
+    {
+      "id": 1007,
+      "name": "黑鲨游戏手机 Helo 8GB内存 黑色 128GB",
+      "price": 3499,
+      "number": 1,
+      "imageSrc": "./static/server/1007/images/cart-image.jpg"
+    },
+    {
+      "id": 1008,
+      "name": "小米MIX 3 全网通版 8GB+256GB 黑色",
+      "price": 3999,
+      "number": 1,
+      "imageSrc": "./static/server/1008/images/cart-image.jpg"
+    },
+    {
+      "id": 2001,
+      "name": "小米电视4A 55英寸 黑色",
+      "price": 2499,
+      "number": 1,
+      "imageSrc": "./static/server/2001/images/cart-image.jpg"
+    },
+    {
+      "id": 2002,
+      "name": "小米电视4X 55英寸 黑色",
+      "price": 2499,
+      "number": 1,
+      "imageSrc": "./static/server/2002/images/cart-image.jpg"
+    },
+    {
+      "id": 2003,
+      "name": "小米电视4C 43英寸 黑色",
+      "price": 1499,
+      "number": 1,
+      "imageSrc": "./static/server/2003/images/cart-image.png"
+    },
+    {
+      "id": 3001,
+      "name": "小米手环3 NFC版 黑色",
+      "price": 199,
+      "number": 1,
+      "imageSrc": "./static/server/3001/images/cart-image.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "米家扫地机器人",
+      "price": 1499,
+      "number": 1,
+      "imageSrc": "./static/server/3002/images/cart-image.jpg"
+    },
+    {
+      "id": 3003,
+      "name": "小米VR一体机 超级玩家版 64GB",
+      "price": 1999,
+      "number": 1,
+      "imageSrc": "./static/server/3003/images/cart-image.jpg"
+    },
+    {
+      "id": 4001,
+      "name": "13.3\"小米笔记本Air 四核i5 8G 256G 集显 银色",
+      "price": 4999,
+      "number": 1,
+      "imageSrc": "./static/server/4001/images/cart-image.jpg"
+    },
+    {
+      "id": 4002,
+      "name": "小米游戏本15.6\"8代i7 16G 1T+256G 1060 6G",
+      "price": 8999,
+      "number": 1,
+      "imageSrc": "./static/server/4002/images/cart-image.png"
+    },
+    {
+      "id": 5001,
+      "name": "米家互联网空调",
+      "price": 2049,
+      "number": 1,
+      "imageSrc": "./static/server/5001/images/cart-image.png"
+    },
+    {
+      "id": 5002,
+      "name": "小米净水器（厨下式） 白色",
+      "price": 1999,
+      "number": 1,
+      "imageSrc": "./static/server/5002/images/cart-image.jpg"
+    },
+    {
+      "id": 6001,
+      "name": "90分旅行箱 1A 20英寸 星空灰 20寸",
+      "price": 1999,
+      "number": 1,
+      "imageSrc": "./static/server/6001/images/cart-image.jpg"
+    },
+    {
+      "id": 6002,
+      "name": "TS近视镜 米家定制",
+      "price": 299,
+      "number": 1,
+      "imageSrc": "./static/server/6002/images/cart-image.jpg"
+    },
+    {
+      "id": 6003,
+      "name": "米家运动鞋2 男款 白色 42",
+      "price": 199,
+      "number": 1,
+      "imageSrc": "./static/server/6003/images/cart-image.jpg"
+    },
+    {
+      "id": 7001,
+      "name": "小米盒子4c",
+      "price": 199,
+      "number": 1,
+      "imageSrc": "./static/server/7001/images/cart-image.jpg"
+    },
+    {
+      "id": 7002,
+      "name": "小米盒子3增强版 白色",
+      "price": 399,
+      "number": 1,
+      "imageSrc": "./static/server/7002/images/cart-image.jpg"
+    }
+  ]
+}
